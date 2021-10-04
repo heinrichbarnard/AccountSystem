@@ -10,6 +10,7 @@
         <module name="AccountSystemTranslator" />
         <module name="AccountSystemLogic" />
         <module name="AccountSystemWebSpringBoot" />
+        <module name="Test" />
         <module name="AccountSystemRepository" />
       </profile>
     </annotationProcessing>
@@ -25,6 +26,7 @@
       <module name="AccountSystemTranslator" options="-parameters" />
       <module name="AccountSystemWeb" options="-parameters" />
       <module name="AccountSystemWebSpringBoot" options="-parameters" />
+      <module name="Test" options="-parameters" />
     </option>
   </component>
 </project>
