@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Sep 30 10:59:58 SAST 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1632992398326
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1632992396944
+https\://repo.spring.io/snapshot/.error=
+@default-rabbit-milestone-https\://dl.bintray.com/rabbitmq/maven-milestones/.lastUpdated=1632992397675
+https\://repo.spring.io/snapshot/.lastUpdated=1632992397257
+https\://dl.bintray.com/rabbitmq/maven-milestones/.error=Could not transfer artifact javax.annotation\:javax.annotation-api\:pom\:1.3.2 from/to rabbit-milestone (https\://dl.bintray.com/rabbitmq/maven-milestones)\: authorization failed for https\://dl.bintray.com/rabbitmq/maven-milestones/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2.pom, status\: 403 Forbidden

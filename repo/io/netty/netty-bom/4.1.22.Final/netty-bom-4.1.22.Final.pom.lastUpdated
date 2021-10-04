@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Sep 30 10:56:15 SAST 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1632992175299
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1632992170682
+https\://repo.spring.io/snapshot/.error=
+@default-rabbit-milestone-https\://dl.bintray.com/rabbitmq/maven-milestones/.lastUpdated=1632992172441
+https\://repo.spring.io/snapshot/.lastUpdated=1632992171030
+https\://dl.bintray.com/rabbitmq/maven-milestones/.error=Could not transfer artifact io.netty\:netty-bom\:pom\:4.1.22.Final from/to rabbit-milestone (https\://dl.bintray.com/rabbitmq/maven-milestones)\: authorization failed for https\://dl.bintray.com/rabbitmq/maven-milestones/io/netty/netty-bom/4.1.22.Final/netty-bom-4.1.22.Final.pom, status\: 403 Forbidden

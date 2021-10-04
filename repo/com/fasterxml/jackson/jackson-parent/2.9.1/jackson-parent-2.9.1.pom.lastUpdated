@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Sep 30 10:56:08 SAST 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1632992168735
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1632992167458
+https\://repo.spring.io/snapshot/.error=
+@default-rabbit-milestone-https\://dl.bintray.com/rabbitmq/maven-milestones/.lastUpdated=1632992168211
+https\://repo.spring.io/snapshot/.lastUpdated=1632992167782
+https\://dl.bintray.com/rabbitmq/maven-milestones/.error=Could not transfer artifact com.fasterxml.jackson\:jackson-parent\:pom\:2.9.1 from/to rabbit-milestone (https\://dl.bintray.com/rabbitmq/maven-milestones)\: authorization failed for https\://dl.bintray.com/rabbitmq/maven-milestones/com/fasterxml/jackson/jackson-parent/2.9.1/jackson-parent-2.9.1.pom, status\: 403 Forbidden
