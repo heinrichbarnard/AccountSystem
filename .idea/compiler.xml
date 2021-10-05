@@ -10,12 +10,12 @@
         <module name="AccountSystemTranslator" />
         <module name="AccountSystemLogic" />
         <module name="AccountSystemWebSpringBoot" />
-        <module name="Test" />
         <module name="AccountSystemRepository" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="AccountSystemWeb" target="17" />
+      <module name="Test" target="13" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

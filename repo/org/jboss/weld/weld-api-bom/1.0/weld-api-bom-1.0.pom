@@ -98,8 +98,8 @@
          </dependency>
 
          <dependency>
-            <groupId>javax.persistence</groupId>
-            <artifactId>persistence-api</artifactId>
+            <groupId>javax.za.ac.nwu.ac.domain.persistence</groupId>
+            <artifactId>za.ac.nwu.ac.domain.persistence-api</artifactId>
             <version>${jpa.api.version}</version>
          </dependency>
 

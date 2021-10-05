@@ -84,7 +84,7 @@
 
     <modules>
         <module>test-utils</module>
-        <module>build-config</module>
+        <module>build-za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.config</module>
         <module>engine</module>
         <module>cdi</module>
         <module>modules</module>
@@ -326,7 +326,7 @@
                 <version>${slf4j.version}</version>
             </dependency>
             <dependency>
-                <groupId>org.hibernate.javax.persistence</groupId>
+                <groupId>org.hibernate.javax.za.ac.nwu.ac.domain.persistence</groupId>
                 <artifactId>hibernate-jpa-2.1-api</artifactId>
                 <version>${hibernate-jpa-2.1-api.version}</version>
             </dependency>
@@ -505,7 +505,7 @@
                     <dependencies>
                         <dependency>
                             <groupId>${project.groupId}</groupId>
-                            <artifactId>hibernate-validator-build-config</artifactId>
+                            <artifactId>hibernate-validator-build-za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.config</artifactId>
                             <version>${project.version}</version>
                         </dependency>
                         <!--
@@ -573,14 +573,14 @@
                         <signaturesArtifacts>
                             <signaturesArtifact>
                                 <groupId>org.hibernate.validator</groupId>
-                                <artifactId>hibernate-validator-build-config</artifactId>
+                                <artifactId>hibernate-validator-build-za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.config</artifactId>
                                 <version>${project.version}</version>
                                 <type>jar</type>
                                 <path>forbidden-common.txt</path>
                             </signaturesArtifact>
                             <signaturesArtifact>
                                 <groupId>org.hibernate.validator</groupId>
-                                <artifactId>hibernate-validator-build-config</artifactId>
+                                <artifactId>hibernate-validator-build-za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.config</artifactId>
                                 <version>${project.version}</version>
                                 <type>jar</type>
                                 <path>${forbiddenapis-junit.path}</path>
@@ -629,11 +629,11 @@
                     <artifactId>license-maven-plugin</artifactId>
                     <version>3.0</version>
                     <configuration>
-                        <header>${hibernate-validator-parent.path}/build-config/src/main/resources/license.header</header>
+                        <header>${hibernate-validator-parent.path}/build-za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.config/src/main/resources/license.header</header>
                         <strictCheck>true</strictCheck>
                         <headerDefinitions>
-                            <headerDefinition>${hibernate-validator-parent.path}/build-config/src/main/resources/java-header-style.xml</headerDefinition>
-                            <headerDefinition>${hibernate-validator-parent.path}/build-config/src/main/resources/xml-header-style.xml</headerDefinition>
+                            <headerDefinition>${hibernate-validator-parent.path}/build-za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.config/src/main/resources/java-header-style.xml</headerDefinition>
+                            <headerDefinition>${hibernate-validator-parent.path}/build-za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.config/src/main/resources/xml-header-style.xml</headerDefinition>
                         </headerDefinitions>
                         <mapping>
                             <java>JAVA_CLASS_STYLE</java>

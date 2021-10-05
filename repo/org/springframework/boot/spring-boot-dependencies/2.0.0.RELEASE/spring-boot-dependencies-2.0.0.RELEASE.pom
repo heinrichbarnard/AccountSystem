@@ -1239,7 +1239,7 @@
             </dependency>
             <dependency>
                 <groupId>org.apache.activemq</groupId>
-                <artifactId>activemq-runtime-config</artifactId>
+                <artifactId>activemq-runtime-za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.config</artifactId>
                 <version>${activemq.version}</version>
             </dependency>
             <dependency>

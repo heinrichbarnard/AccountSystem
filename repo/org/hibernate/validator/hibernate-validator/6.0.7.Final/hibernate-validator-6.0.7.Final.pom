@@ -79,7 +79,7 @@
         Optional dependencies
         -->
         <dependency>
-            <groupId>org.hibernate.javax.persistence</groupId>
+            <groupId>org.hibernate.javax.za.ac.nwu.ac.domain.persistence</groupId>
             <artifactId>hibernate-jpa-2.1-api</artifactId>
             <optional>true</optional>
         </dependency>
@@ -213,7 +213,7 @@
                     <instructions>
                         <Bundle-SymbolicName>${hibernate-validator.bundle-name}</Bundle-SymbolicName>
                         <Import-Package>
-                            javax.persistence.*;version="[2.0.0,3.0.0)";resolution:=optional,
+                            javax.za.ac.nwu.ac.domain.persistence.*;version="[2.0.0,3.0.0)";resolution:=optional,
                             javax.validation.*;version="[2.0.0,3.0.0)",
                             javax.script.*;version="0",
                             javax.xml.*;version="0",

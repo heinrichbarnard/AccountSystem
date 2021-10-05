@@ -73,18 +73,18 @@
 
             <!-- Config -->
             <dependency>
-                <groupId>org.jboss.arquillian.config</groupId>
-                <artifactId>arquillian-config-api</artifactId>
+                <groupId>org.jboss.arquillian.za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.config</groupId>
+                <artifactId>arquillian-za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.config-api</artifactId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>
-                <groupId>org.jboss.arquillian.config</groupId>
-                <artifactId>arquillian-config-spi</artifactId>
+                <groupId>org.jboss.arquillian.za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.config</groupId>
+                <artifactId>arquillian-za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.config-spi</artifactId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>
-                <groupId>org.jboss.arquillian.config</groupId>
-                <artifactId>arquillian-config-impl-base</artifactId>
+                <groupId>org.jboss.arquillian.za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.config</groupId>
+                <artifactId>arquillian-za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.config-impl-base</artifactId>
                 <version>${project.version}</version>
             </dependency>
 

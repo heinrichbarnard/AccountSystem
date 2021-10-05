@@ -230,7 +230,7 @@ See the Apache License Version 2.0 for the specific language governing permissio
               </_removeheaders>
             </instructions>
             <archive>
-              <forced>true</forced><!-- dummy entry to stop bundleplugin from picking up jar config -->
+              <forced>true</forced><!-- dummy entry to stop bundleplugin from picking up jar za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.za.ac.nwu.ac.repo.config -->
             </archive>
           </configuration>
           <executions>
