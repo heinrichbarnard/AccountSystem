@@ -46,7 +46,7 @@
         <module>AccountSystemTranslator</module>
         <module>AccountSystemLogic</module>
         <module>AccountSystemWebSpringBoot</module>
-        <module>Test</module>
+
     </modules>
 
 

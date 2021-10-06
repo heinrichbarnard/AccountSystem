@@ -1,4 +1,4 @@
-package za.ac.nwu.ac.domain.dto;
-
-public class AccountTypeDto {
-}
+//package za.ac.nwu.ac.domain.dto;
+//
+//public class AccountTypeDto {
+//}

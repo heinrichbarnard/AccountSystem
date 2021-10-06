@@ -12,23 +12,17 @@ import springfox.documentation.service.Contact;
 import springfox.documentation.spi.DocumentationType;
 import springfox.documentation.spring.web.plugins.Docket;
 import springfox.documentation.swagger2.annotations.EnableSwagger2;
-
 import java.util.Collections;
-
 @Configuration
 @EnableSwagger2
 @Import(springfox.bean.validators.configuration.BeanValidatorPluginsConfiguration.class)
 public class SwaggerConfiguration {
-
     @Value("${swagger.application.version}")
     private String applicationVersion;
-
     @Value("${swagger.application.name}")
     private String applicationName;
-
     @Value("${swagger.application.description}")
     private String applicationDescription;
-
     @Bean
     public Docket api() {
         return new Docket(DocumentationType.SWAGGER_2)
@@ -45,7 +39,7 @@ public class SwaggerConfiguration {
                 applicationDescription,
                 applicationVersion,
                 "",
-                new Contact("Heinrich Barnard", "", "email address"),
+                new Contact("Heinrich Barnard", "", "heinrich.b1997@gmail.com"),
                 "",
                 "",
                 Collections.emptyList());
