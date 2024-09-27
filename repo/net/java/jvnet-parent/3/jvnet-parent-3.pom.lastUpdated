@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Sep 30 11:00:07 SAST 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1632992407643
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1632992398669
+https\://repo.spring.io/snapshot/.error=
+@default-rabbit-milestone-https\://dl.bintray.com/rabbitmq/maven-milestones/.lastUpdated=1632992406504
+https\://repo.spring.io/snapshot/.lastUpdated=1632992398984
+https\://dl.bintray.com/rabbitmq/maven-milestones/.error=Could not transfer artifact net.java\:jvnet-parent\:pom\:3 from/to rabbit-milestone (https\://dl.bintray.com/rabbitmq/maven-milestones)\: authorization failed for https\://dl.bintray.com/rabbitmq/maven-milestones/net/java/jvnet-parent/3/jvnet-parent-3.pom, status\: 403 Forbidden

@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Sep 30 11:00:16 SAST 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1632992416807
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1632992411559
+https\://repo.spring.io/snapshot/.error=
+@default-rabbit-milestone-https\://dl.bintray.com/rabbitmq/maven-milestones/.lastUpdated=1632992415527
+https\://repo.spring.io/snapshot/.lastUpdated=1632992411883
+https\://dl.bintray.com/rabbitmq/maven-milestones/.error=Could not transfer artifact org.springframework\:spring-web\:pom\:5.0.4.RELEASE from/to rabbit-milestone (https\://dl.bintray.com/rabbitmq/maven-milestones)\: authorization failed for https\://dl.bintray.com/rabbitmq/maven-milestones/org/springframework/spring-web/5.0.4.RELEASE/spring-web-5.0.4.RELEASE.pom, status\: 403 Forbidden

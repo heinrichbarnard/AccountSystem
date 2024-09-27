@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Sep 30 11:01:16 SAST 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1632992476715
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1632992471471
+https\://repo.spring.io/snapshot/.error=
+@default-rabbit-milestone-https\://dl.bintray.com/rabbitmq/maven-milestones/.lastUpdated=1632992475307
+https\://repo.spring.io/snapshot/.lastUpdated=1632992471789
+https\://dl.bintray.com/rabbitmq/maven-milestones/.error=Could not transfer artifact com.fasterxml\:oss-parent\:pom\:24 from/to rabbit-milestone (https\://dl.bintray.com/rabbitmq/maven-milestones)\: authorization failed for https\://dl.bintray.com/rabbitmq/maven-milestones/com/fasterxml/oss-parent/24/oss-parent-24.pom, status\: 403 Forbidden
